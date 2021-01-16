@@ -1,0 +1,21 @@
+body {
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 300px;
+}
+
+.cont {
+    margin: 80px 0;
+}
+
+.form-cont {
+    display: flex;
+    justify-content: center;
+}
